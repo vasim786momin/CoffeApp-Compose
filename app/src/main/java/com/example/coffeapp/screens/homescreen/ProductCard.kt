@@ -63,6 +63,7 @@ import com.example.coffeapp.ui.theme.LightGray
         Column(
             modifier = Modifier.padding(8.dp)
         ) {
+
             Box(
                 modifier = Modifier.fillMaxWidth().height(160.dp)
             ){
